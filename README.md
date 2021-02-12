@@ -1,2 +1,2 @@
 # VarSwapPricing
-Pricing of Variance swap
+Pricing of Variance Swap
