@@ -1,2 +1,2 @@
-# VarSwapPricing
-Pricing of Variance Swap
+#Project VarSwapPricing
+Project of Variance Swap Pricing
